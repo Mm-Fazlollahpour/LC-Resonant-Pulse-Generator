@@ -31,3 +31,10 @@
   Fabricated and assembled hardware prototype
   used for laboratory implementation and testing.
 </p>
+
+The circuit schematic and PCB layout were developed using
+Altium Designer. The assembled board integrates the
+LC resonant power stage, switching devices, isolated
+gate-driving circuits, and controller connections.
+
+[**View Hardware Design Files**](Hardware/)
