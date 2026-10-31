@@ -20,4 +20,5 @@ The images include:
 
 ### Laboratory Testing
 
-![Laboratory Test Setup](Laboratory_Test.jpg)
+![Laboratory Test Setup](Laboratory_Test1.jpg)
+![Laboratory Test Setup](Laboratory_Test2.jpg)
